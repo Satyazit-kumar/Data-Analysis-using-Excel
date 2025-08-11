@@ -54,5 +54,9 @@ The following tasks were done
 11.New customers present a significant revenue opportunity, particularly in urban regions.														
 12.Enhance the online purchasing experience, as a significant portion of transactions occurs online.
 13. Premium brands contribute significantly to total revenue.														
-14. The top 10 customers account for a notable portion of total transaction value.														
+14. The top 10 customers account for a notable portion of total transaction value.
+
+          **This project is part of an academic submission and is for educational purposes only.**
+
+
 
