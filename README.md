@@ -31,7 +31,7 @@ The following tasks were done
 15. The average transactional value of top 10 customers in a year is more than $17000 , which is a good amount											
 16. Average number of purchases per customer in a year is 6											
 17. Financial Services and Manufacturing industry have highest number of new customers as per new customer data											
-18 . 50% customers belong to New South Wales and rest 50% come from queensland and victoria together											
+18 .50% customers belong to New South Wales and rest 50% come from queensland and victoria together											
 19. There is a very weak positive correlation between property valuation and wealth segment											
 20. Average potential revenue from new customers is $44											
 21. Females have highest CLV											
